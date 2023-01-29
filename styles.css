@@ -1,0 +1,66 @@
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  margin: 0 10%;
+}
+
+.container {
+  border: 2px solid #a2a2a6;
+  padding: 10px;
+  margin: 10px auto
+}
+
+.color-container {
+  width: 100%;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.dodgerblue {
+    background-color: #1e90ff;
+    color: #fff;
+}
+
+.coral {
+    background-color: #ff7f50;
+    color: #000;
+}
+
+.mint-green {
+    background-color: #4fe0b0;
+}
+
+.lightsteelblue {
+    background-color: #b0c4de;
+}
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+}
+
+.font-label {
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.source-code-pro {
+    font-family: 'Source Code Pro', monospace;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+.italic {
+    font-style: italic;
+}
